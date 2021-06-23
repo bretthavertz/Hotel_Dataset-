@@ -1,2 +1,3 @@
 # Hotel_Dataset-
-Hotel Data set from you tube video
+My project for Lambda School
+A predictive model on someone renting a hotel room 
